@@ -87,7 +87,7 @@ int main()
 
 ## OUTPUT
 
-![WhatsApp Image 2024-04-14 at 23 05 53_ea69cefd](https://github.com/Johnydj123/Linux-IPC-Message-Queues/assets/145953459/55f45830-0319-4e58-9488-a56383eabf1d)
+![alt text](<../Screenshot 2024-05-09 213321.png>)
 
 
 
